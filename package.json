@@ -2,7 +2,7 @@
   "name": "react-uniswap",
   "version": "0.1.0",
   "engines": {
-    "node": "18.17.0"
+    "node": "18.20.6"
   },
   "private": true,
   "dependencies": {
